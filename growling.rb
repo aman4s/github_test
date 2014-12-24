@@ -1,4 +1,4 @@
 0.upto(9) do
- put "Grrr!"
+ put "Hello world, Grrr!"
 end
 
